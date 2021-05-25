@@ -10,7 +10,7 @@
 
 3. Download the following installation bundle 
 
-<img src="https://lh3.googleusercontent.com/6U_8_9-RdyyT1j_1KtM3W8qiIbFXi6qJ4tJj7K-6eaq6TIjhyJQGyiODiHiKAu3vA-4N2yTg_uETyO07qaZX2x5u1-D8bFjDAans3GKpkQ9g98gQx41XHGCEF1QXt6fAF7h9KzoQ" alt="img" style="zoom: 67%;" />
+<img src="https://lh3.googleusercontent.com/6U_8_9-RdyyT1j_1KtM3W8qiIbFXi6qJ4tJj7K-6eaq6TIjhyJQGyiODiHiKAu3vA-4N2yTg_uETyO07qaZX2x5u1-D8bFjDAans3GKpkQ9g98gQx41XHGCEF1QXt6fAF7h9KzoQ" alt="img" style="zoom: 33%;" />
 
 4. Extract the **zip** file
 5. Then, move **flutter** folder to **Documents** folder
