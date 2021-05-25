@@ -6,7 +6,7 @@
 
 2. Choose **Windows**
 
-   <img src="https://lh6.googleusercontent.com/4JKAn2qqi-tspNzl-Wvz0dGxeH7PX9U_68-_fFMBgWta2OmOI9gAqyM9gfFuMx6Ab_V-sAC_cPQemp5XDbWkHVs3BY6QLUn7EmYe3SrZA-aIbz0v2QG54jsc6c8g_jn_CmGET4XQ" alt="img" style="zoom: 67%;" />
+<img src="https://lh6.googleusercontent.com/4JKAn2qqi-tspNzl-Wvz0dGxeH7PX9U_68-_fFMBgWta2OmOI9gAqyM9gfFuMx6Ab_V-sAC_cPQemp5XDbWkHVs3BY6QLUn7EmYe3SrZA-aIbz0v2QG54jsc6c8g_jn_CmGET4XQ" alt="img" style="zoom: 67%;" />
 
 3. Download the following installation bundle 
 
