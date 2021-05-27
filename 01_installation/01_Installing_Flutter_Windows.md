@@ -57,7 +57,7 @@
 flutter --version
 ```
 
-15. Make sure it will give you the Flutter version like the image
+15. Make sure it will give you the Flutter version
 
 <img src="https://lh3.googleusercontent.com/K_JjHHFty4SnuXPMtHiTD5kTYlpIPRRKGE6SOAjYqMTKwZ7hCaSN0Qxax81w9VZmK8Cb_72tsmqSfJBctNPw2QAvORqbIw_zjAzkcSyPxdP0aeAWSBMdY8gKb5GT8J6N9fBlf2KA"  width="500"/>
 
