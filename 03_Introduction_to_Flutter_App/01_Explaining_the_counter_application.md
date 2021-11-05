@@ -2,7 +2,7 @@
 
 
 
-When we create a new project in VSCode, Flutter will create a counter application, which is an application that has a floating action button. When you click it, it will increase the text number in the center of the app.
+When we create a new project in **VSCode**, Flutter will create a counter application, which is an application that has a floating action button; when you click it, it will increase the text number in the center of the app.
 
 
 
