@@ -8,18 +8,13 @@
 
    Windows: **Ctrl + Shift + P**       
 
-   Mac: **Command + Shift + P**
-
-![img](https://lh5.googleusercontent.com/VwZI0144QyrgOwuK49U4x39gfwJOiq3baOIk6YYc_HdRbw188vSBxFZSB0bgYUp5NjxMEXxJ3MiyuQAEln_gphbDJ6TptwB7dDvNzCzp0gxVwBL4P3QQntgDbzm3p2x6m04siP-T)
-
+   Mac: **Command + Shift + P** </br>
+   <img src="https://lh5.googleusercontent.com/VwZI0144QyrgOwuK49U4x39gfwJOiq3baOIk6YYc_HdRbw188vSBxFZSB0bgYUp5NjxMEXxJ3MiyuQAEln_gphbDJ6TptwB7dDvNzCzp0gxVwBL4P3QQntgDbzm3p2x6m04siP-T" alt="img" width="500" />
 
 
 
-
-3. Type **Flutter**, then choose **Flutter: New Application Project**
-
-**![img](https://lh4.googleusercontent.com/jyV_1g-v9FEkbgImN3qZ11ReOGcwAy_BgTcJM6ZW4oRKtfekQGEmAZGcYvSdRDrkixT4va1r6BWZFq5tTfne5YyC-CXaTsZLQwL9xqtqJ9evnspiPC2bIXbaJpXhD_dTHYPvor_Y)**
-
+3. Type **Flutter**, then choose **Flutter: New Application Project** </br>
+   <img src="https://lh4.googleusercontent.com/jyV_1g-v9FEkbgImN3qZ11ReOGcwAy_BgTcJM6ZW4oRKtfekQGEmAZGcYvSdRDrkixT4va1r6BWZFq5tTfne5YyC-CXaTsZLQwL9xqtqJ9evnspiPC2bIXbaJpXhD_dTHYPvor_Y" alt="img" width="400" />
 
 
 
