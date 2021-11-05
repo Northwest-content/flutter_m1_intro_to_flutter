@@ -4,9 +4,8 @@
 
 6. After we typed these codes, we will see a white empty screen with the DEBUG red tag.
 
+<img src="https://lh3.googleusercontent.com/4wywgJSDO4Yj6aEwpOcQtm_OD1Y1MSbzURQhJ4llG0fyYJxWsXNML3J-GxIj1ZgDtuCqewtmpMZjbYUZBl14KdSLV1cWGSNeUJ4DvVdqfZLcP-Y3B2EnacE8UHlumaYLNYq4SfR8" alt="img" width="300" />
 
-
-![img](https://lh3.googleusercontent.com/4wywgJSDO4Yj6aEwpOcQtm_OD1Y1MSbzURQhJ4llG0fyYJxWsXNML3J-GxIj1ZgDtuCqewtmpMZjbYUZBl14KdSLV1cWGSNeUJ4DvVdqfZLcP-Y3B2EnacE8UHlumaYLNYq4SfR8)
 
 
 
