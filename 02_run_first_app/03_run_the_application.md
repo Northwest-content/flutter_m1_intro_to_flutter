@@ -4,24 +4,25 @@
 
 1. Open **Command Palette**, or you can use the shortcut
 
-- Windows: `**Ctrl + Shift + P`     
+- Windows: `Ctrl + Shift + P`     
 - Mac: `Command + Shift + P`
-
-![img](https://lh5.googleusercontent.com/VwZI0144QyrgOwuK49U4x39gfwJOiq3baOIk6YYc_HdRbw188vSBxFZSB0bgYUp5NjxMEXxJ3MiyuQAEln_gphbDJ6TptwB7dDvNzCzp0gxVwBL4P3QQntgDbzm3p2x6m04siP-T)
-
-
+</br></br>
+   <img src="https://lh5.googleusercontent.com/VwZI0144QyrgOwuK49U4x39gfwJOiq3baOIk6YYc_HdRbw188vSBxFZSB0bgYUp5NjxMEXxJ3MiyuQAEln_gphbDJ6TptwB7dDvNzCzp0gxVwBL4P3QQntgDbzm3p2x6m04siP-T" alt="img" width="400" />
 
 
 
-2. Type **Flutter**, then choose **Flutter: Launch Emulator**
 
-   ​								**![img](https://lh5.googleusercontent.com/esJ6MvWphdwblWgqDcSICHopKG5BGHOo4BCFxPZB3K05dNM3OwywgF7ygTxep2FPwd8F9E-3R2RJ4AfQz0bzTt4y0Jtxtd3lxfpQAQa52iR6vBcB3EGYch48Gx4IcAJICQvoRL5j)**
+
+
+2. Type **Flutter**, then choose **Flutter: Launch Emulator** </br></br>
+   <img src="https://lh5.googleusercontent.com/esJ6MvWphdwblWgqDcSICHopKG5BGHOo4BCFxPZB3K05dNM3OwywgF7ygTxep2FPwd8F9E-3R2RJ4AfQz0bzTt4y0Jtxtd3lxfpQAQa52iR6vBcB3EGYch48Gx4IcAJICQvoRL5j" alt="img" width="300" />
+   ​								
 
 > Note: down the VSCode, you will see which device that your flutter app will run on it. Also, when you click it you can change the emulator. This is the shortcut for step 2.
 
+<img src="https://lh3.googleusercontent.com/Pjuu1D3OuoOn2qOO3m3doveNFi5wNVPRDkhyhaDdiCAkgUXd8H7zU7w7wgSmfkv7plwGbtLvDi2TxBrtsZrcBt8QiipvWEpsz_z_zQyCI9fER3bVmXO9ds40ssNAlIFktCwRmybA" alt="img" width="400" />
 
 
-![img](https://lh3.googleusercontent.com/Pjuu1D3OuoOn2qOO3m3doveNFi5wNVPRDkhyhaDdiCAkgUXd8H7zU7w7wgSmfkv7plwGbtLvDi2TxBrtsZrcBt8QiipvWEpsz_z_zQyCI9fER3bVmXO9ds40ssNAlIFktCwRmybA)
 
 
 
