@@ -6,9 +6,9 @@
 
 2. Open **Command Palette**, or you can use the shortcut
 
-   Windows: **Ctrl + Shift + P**       
-
-   Mac: **Command + Shift + P** </br>
+   - Windows: **Ctrl + Shift + P**       
+   - Mac: **Command + Shift + P** </br>  </br>
+   
    <img src="https://lh5.googleusercontent.com/VwZI0144QyrgOwuK49U4x39gfwJOiq3baOIk6YYc_HdRbw188vSBxFZSB0bgYUp5NjxMEXxJ3MiyuQAEln_gphbDJ6TptwB7dDvNzCzp0gxVwBL4P3QQntgDbzm3p2x6m04siP-T" alt="img" width="500" />
 
 
