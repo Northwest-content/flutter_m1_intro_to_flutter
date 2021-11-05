@@ -18,7 +18,7 @@ sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
 
 
 
-5. Run inside the Terminal 
+5. Run inside the **Terminal** 
 
 ```shell
  sudo xcodebuild -runFirstLaunch
