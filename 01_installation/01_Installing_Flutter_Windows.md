@@ -8,17 +8,24 @@
 
 <img src="https://lh6.googleusercontent.com/4JKAn2qqi-tspNzl-Wvz0dGxeH7PX9U_68-_fFMBgWta2OmOI9gAqyM9gfFuMx6Ab_V-sAC_cPQemp5XDbWkHVs3BY6QLUn7EmYe3SrZA-aIbz0v2QG54jsc6c8g_jn_CmGET4XQ" alt="img" width="500" />
 
+
+
 3. Download the following installation bundle 
 
 <img src="https://lh3.googleusercontent.com/6U_8_9-RdyyT1j_1KtM3W8qiIbFXi6qJ4tJj7K-6eaq6TIjhyJQGyiODiHiKAu3vA-4N2yTg_uETyO07qaZX2x5u1-D8bFjDAans3GKpkQ9g98gQx41XHGCEF1QXt6fAF7h9KzoQ" alt="img"  width="500" />
+
+
+
+
 
 4. Extract the **zip** file
 5. Then, move **flutter** folder to **Documents** folder
 6. Open **flutter** folder, then open **bin** folder
 7. Copy the folder path
 
-
 <img src="https://lh5.googleusercontent.com/YQE5rPBBQlyIqIKzagmbFKtd1vfHXDt6f9GH6JkwXEeMi9yu7hsK6MfPD4cen5RJFdOvPIgyup_4uv3bgH9ZVLAL9crw6Cplqob-Arv-HmNw8RjFcNAjpVRInC_OHnzF_UloQxSa"  width="500" />
+
+
 
 
 
@@ -38,6 +45,8 @@
 10. Choose **Path**, then click **Edit** button 
 
 <img src="https://user-images.githubusercontent.com/24327781/119426909-b7a18480-bccf-11eb-9fb3-a44b37c0bf8a.png" alt="6HEFQ5EmA0"  width="500" />
+
+
 
 
 

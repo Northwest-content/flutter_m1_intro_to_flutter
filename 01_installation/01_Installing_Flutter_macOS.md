@@ -3,13 +3,24 @@
 
 
 1. Open https://flutter.dev/docs/get-started/install
+
+
+
 2. Choose **macOS**
 
 <img src="https://lh6.googleusercontent.com/4JKAn2qqi-tspNzl-Wvz0dGxeH7PX9U_68-_fFMBgWta2OmOI9gAqyM9gfFuMx6Ab_V-sAC_cPQemp5XDbWkHVs3BY6QLUn7EmYe3SrZA-aIbz0v2QG54jsc6c8g_jn_CmGET4XQ" alt="img" style="zoom:67%;" />
 
+
+
+
+
 3. Download the following installation bundle 
 
 <img src="https://lh3.googleusercontent.com/AVcOs5tWRDvNYsa6-gu2cVq7NKsNKd62UFElAfppmGeXsu95y5NrRoHFxIRNfrhtXyDnR8-3Zz48JrxcNFfGMFghSMNVN74Ppf17SgFPZyTss6_rRlHF2LmEbcfVEx1_1qckxRSp" alt="img" style="zoom: 80%;" />
+
+
+
+
 
 4. Extract the file
 
@@ -63,7 +74,13 @@ The final example will be the same as this example but with your **flutter path 
 
 <img src="https://lh5.googleusercontent.com/drK-jBdJH71dFTcmOgWUzECjmyoTJeBju2mTAWgycHmUl6SzZIpK8S08xDeEUcueq1IEEIfsI2RW_PBnRW8vZWzwRDZugFXD9RDPlxBgCjQwftBNUhOePpqP-7aEQ78ajTEdQgd2" alt="img" style="zoom: 67%;" />
 
+
+
+
+
 16. Save **.bash_profile**, Then quit the **Terminal**, and reopen it again.
+
+
 
 17. Run, 
 
