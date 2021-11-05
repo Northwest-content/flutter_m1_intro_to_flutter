@@ -23,15 +23,14 @@ class MyApp extends StatelessWidget {
 
 > **Good practice**: when you create a new class; *we will understand the class in the future lessons*. In our case, we create a new class widget called **HomeScreen**, when we name it we will use the **UpperCamelCase** strategy: we should capitalize the first letter of each word (including the first word), and use no separators.
 
-<img src="https://lh6.googleusercontent.com/QkpfTNnKHJe-Mb09wzA9EELlV3dJXrElwS1Yotq0vnZoId4yQxt6rhg5RBPOzBciksEzoA1cD5HlFUXv8GA_p3rKGdD4lu8H7ePvv-7hTxFxLr8IleChl0_aJL6igdFKm79HEgjv" alt="img" style="zoom: 25%;" />
+<img src="https://lh6.googleusercontent.com/QkpfTNnKHJe-Mb09wzA9EELlV3dJXrElwS1Yotq0vnZoId4yQxt6rhg5RBPOzBciksEzoA1cD5HlFUXv8GA_p3rKGdD4lu8H7ePvv-7hTxFxLr8IleChl0_aJL6igdFKm79HEgjv" alt="img" width="200" />
 
 
 
 
 
 
-
-![img](https://lh5.googleusercontent.com/COTeTqOJCvhQIR1StCMTQvZB5Ea8lh9PSE4BUeS-7HdTyOqJanczbnRs83JCbljF_zCshID1BYsBswqQyJkERFvvzfvjlpClOA2fcSphLtxixP-9Bbz9qUadWUl9l7naFjoWMWvA)
+<img src="https://lh5.googleusercontent.com/COTeTqOJCvhQIR1StCMTQvZB5Ea8lh9PSE4BUeS-7HdTyOqJanczbnRs83JCbljF_zCshID1BYsBswqQyJkERFvvzfvjlpClOA2fcSphLtxixP-9Bbz9qUadWUl9l7naFjoWMWvA" alt="img" width="400" />
 
 
 
