@@ -24,7 +24,7 @@ For now, let's start to discover this app, and modify it.
 
 3. You will see the counter application. Try to press the Floating button, you will see that the number will increase ^_^.
 
-<img src="https://lh5.googleusercontent.com/3B-fTl3-Q2sTFxeBIXLQ9W62qzzRkj9dv3lbhQh7eRCblvmC_5eocIJH3wdxHh8p4Isnz-pJfOHAd5QyZspilFPOAuRI8AsXcRuUoeZnn8PzFwkATo8obvgyHVwbS1qEUGJEqsQ4" alt="img" style="zoom:50%;" />
+   <img src="https://lh5.googleusercontent.com/3B-fTl3-Q2sTFxeBIXLQ9W62qzzRkj9dv3lbhQh7eRCblvmC_5eocIJH3wdxHh8p4Isnz-pJfOHAd5QyZspilFPOAuRI8AsXcRuUoeZnn8PzFwkATo8obvgyHVwbS1qEUGJEqsQ4" alt="img" width="300" />
 
 
 
