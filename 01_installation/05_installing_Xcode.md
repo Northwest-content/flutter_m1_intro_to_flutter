@@ -5,7 +5,7 @@ Installing Xcode
 1. Open **App Store**
 
 2. Type **Xcode**, then click **Install** </br>
-   <img src="https://lh5.googleusercontent.com/Ig84xfBPwMJ7rTRcEdd-pfn4m2JvdI6tgogSTjsdnpGLhC4PdCUQY0K5CL9zIOhXEexyZALLmbLw-GzqtZiDgbDkKlGmtRXMM7WdOcyCD705GAPhYJSv9gUdMT5bIaLSh_Vg2I3U" alt="img" width="300" />
+   ![screenshot](https://lh5.googleusercontent.com/Ig84xfBPwMJ7rTRcEdd-pfn4m2JvdI6tgogSTjsdnpGLhC4PdCUQY0K5CL9zIOhXEexyZALLmbLw-GzqtZiDgbDkKlGmtRXMM7WdOcyCD705GAPhYJSv9gUdMT5bIaLSh_Vg2I3U)
 
 
 3. Open the **Xcode**, then close it.
@@ -40,7 +40,7 @@ sudo xcodebuild -license
  open -a Simulator
 ```
 
-   <img src="https://lh4.googleusercontent.com/xXqpDPzLGBBIoVuhg3vCBiL9pLRtXr-LvF9qFzBXHdhkSghewM62daxhN-IQ-qROppGY0RaIehGHTb57btdts_iNrWy0WEsj8QlQ3fw9drisfzpKGhR3QV8T5hBkQlg9MirSXFgH" alt="img" width="300" />
+   ![screenshot](https://lh4.googleusercontent.com/xXqpDPzLGBBIoVuhg3vCBiL9pLRtXr-LvF9qFzBXHdhkSghewM62daxhN-IQ-qROppGY0RaIehGHTb57btdts_iNrWy0WEsj8QlQ3fw9drisfzpKGhR3QV8T5hBkQlg9MirSXFgH)
 
 
 

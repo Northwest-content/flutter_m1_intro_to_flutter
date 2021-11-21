@@ -24,4 +24,4 @@ class HomeScreen extends StatelessWidget {
 Right now, our **Text** widget is in the center of the home screen.
 
 
-<img src="https://lh6.googleusercontent.com/5COK5Fohnffrja6KfROwIHtUZm6BG5UmUHiZViwt_-zIWbZ7DqyjZAbk1lKWWl-MqUjnLPtS1GuBi118B9ZJO7bFJG68oIFUQw6_l_GhpYGdy1xGWawKn5VVNj8DYDGXZf1d9vSV" alt="img" width="300" />
+![screenshot](https://lh6.googleusercontent.com/5COK5Fohnffrja6KfROwIHtUZm6BG5UmUHiZViwt_-zIWbZ7DqyjZAbk1lKWWl-MqUjnLPtS1GuBi118B9ZJO7bFJG68oIFUQw6_l_GhpYGdy1xGWawKn5VVNj8DYDGXZf1d9vSV)

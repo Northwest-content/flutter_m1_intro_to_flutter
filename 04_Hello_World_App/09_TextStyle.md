@@ -34,4 +34,4 @@ As you see in the above code, we used the different named arguments inside the *
 
 12. Finally, we have built our first app ^ _ ^
 
-    <img src="https://lh5.googleusercontent.com/T-ad6-E0KUwvPl4HClTqw-K2Njv2zFIJJr5mJ6kjTPoYiVTw2-wxuO5SvwGswx4wg0jAHu_afi0wTGW6FqA8VgNxokpJ_-_eCSQNHho8ZWVTN_axGsQP2IAywGgyJtMTOqA-h_KP" alt="img" width="300" />
+    ![screenshot](https://lh5.googleusercontent.com/T-ad6-E0KUwvPl4HClTqw-K2Njv2zFIJJr5mJ6kjTPoYiVTw2-wxuO5SvwGswx4wg0jAHu_afi0wTGW6FqA8VgNxokpJ_-_eCSQNHho8ZWVTN_axGsQP2IAywGgyJtMTOqA-h_KP)

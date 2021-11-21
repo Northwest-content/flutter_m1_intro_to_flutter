@@ -13,7 +13,7 @@
    
 
 3. Make sure you see **green** check marks in all steps with ( No issues found! ) </br>
-   <img src="https://lh5.googleusercontent.com/bcv1I4hrEV6TPca9PxcQ_Cd66bXBOJwwi-g_qruPNMsz7vYBxfcngYq-VxoYr8KX6MUGev_69oGeqk9EbooeYKjrKP9KcgnaEggqNNLUO5nWY-9aeI8hCg0e3uLJwO-ppUK1BQKj" alt="img" width="500" />
+   ![screenshot](https://lh5.googleusercontent.com/bcv1I4hrEV6TPca9PxcQ_Cd66bXBOJwwi-g_qruPNMsz7vYBxfcngYq-VxoYr8KX6MUGev_69oGeqk9EbooeYKjrKP9KcgnaEggqNNLUO5nWY-9aeI8hCg0e3uLJwO-ppUK1BQKj)
 
 
 

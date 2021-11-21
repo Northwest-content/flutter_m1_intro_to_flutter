@@ -19,4 +19,4 @@ class HomeScreen extends StatelessWidget {
 
 9. After that, we will see our "**Hello World**" text be on the top left of the screen.
 
-    <img src="https://lh3.googleusercontent.com/iN0pClKhmp4ny_1PxRbzM7Y22jKI82Fsfg41mxj1Jd5zJBah4DLfM84FPZzHPYly-b0TwxlslGKm4Wiz2dgp7ZppBtx94ZvvndCwWM-HF_PkjU39LeLKiRGlC_zXQOwTsLkt4gZc" alt="img" width="250" />
+    ![screenshot](https://lh3.googleusercontent.com/iN0pClKhmp4ny_1PxRbzM7Y22jKI82Fsfg41mxj1Jd5zJBah4DLfM84FPZzHPYly-b0TwxlslGKm4Wiz2dgp7ZppBtx94ZvvndCwWM-HF_PkjU39LeLKiRGlC_zXQOwTsLkt4gZc)
