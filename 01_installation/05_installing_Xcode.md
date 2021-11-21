@@ -4,7 +4,8 @@ Installing Xcode
 
 1. Open **App Store**
 
-2. Type **Xcode**, then click **Install** </br>
+2. Type **Xcode**, then click **Install**   
+
    ![screenshot](https://lh5.googleusercontent.com/Ig84xfBPwMJ7rTRcEdd-pfn4m2JvdI6tgogSTjsdnpGLhC4PdCUQY0K5CL9zIOhXEexyZALLmbLw-GzqtZiDgbDkKlGmtRXMM7WdOcyCD705GAPhYJSv9gUdMT5bIaLSh_Vg2I3U)
 
 

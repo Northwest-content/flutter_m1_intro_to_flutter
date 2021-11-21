@@ -6,7 +6,9 @@
 
 - Windows: `Ctrl + Shift + P`     
 - Mac: `Command + Shift + P`
-</br></br>
+  
+  
+
    ![screenshot](https://lh5.googleusercontent.com/VwZI0144QyrgOwuK49U4x39gfwJOiq3baOIk6YYc_HdRbw188vSBxFZSB0bgYUp5NjxMEXxJ3MiyuQAEln_gphbDJ6TptwB7dDvNzCzp0gxVwBL4P3QQntgDbzm3p2x6m04siP-T)
 
 
@@ -14,7 +16,9 @@
 
 
 
-2. Type **Flutter**, then choose **Flutter: Launch Emulator** </br></br>
+2. Type **Flutter**, then choose **Flutter: Launch Emulator**   
+  
+
    ![screenshot](https://lh5.googleusercontent.com/esJ6MvWphdwblWgqDcSICHopKG5BGHOo4BCFxPZB3K05dNM3OwywgF7ygTxep2FPwd8F9E-3R2RJ4AfQz0bzTt4y0Jtxtd3lxfpQAQa52iR6vBcB3EGYch48Gx4IcAJICQvoRL5j)
    ​								
 

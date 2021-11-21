@@ -4,13 +4,17 @@
 
 
 
-1. If we go to the **main.dart** file, and go down we will see that we will have two text widgets. </br></br>
+1. If we go to the **main.dart** file, and go down we will see that we will have two text widgets.   
+  
+
       ![screenshot](https://lh4.googleusercontent.com/Ku8XcN77LjQx5CWah8gDQ0IW4QcxTLCwCwgi5ZoJOTxIB5jVKOJNOVoUYaDMATHaGKthuLGK5dCmR_yBZLkmGtWghWPY6z3u41wHXLDXGv6xiQhGkZGg0p-ke_-K2AN2Tr3J3gpp)
 
 
 
 
-2. To change the upper text, we need to change the text that is inside the **Text widget** </br></br>
+2. To change the upper text, we need to change the text that is inside the **Text widget**   
+  
+
       ![screenshot](https://lh5.googleusercontent.com/N8QRvsFZkAWMkTqEXB5qN3MN7FEWG1Qov9L1Ut4dDYw7GYnwWoKunU8obZ1dx4mbjBWhp6x4z1Gf9KlcVFXtifKXamgxtEVKwvjL-OskIFrufm7tqD7Fg8cRJA58RlaPmWTNUd5k)
 
 

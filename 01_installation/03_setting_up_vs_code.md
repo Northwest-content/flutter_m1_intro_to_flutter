@@ -34,5 +34,6 @@
 
 
 
-6. Make sure all of these extensions are installed correctly. </br>
+6. Make sure all of these extensions are installed correctly.   
+
    ![screenshot](https://lh6.googleusercontent.com/tEM7NFSQa6q72Zr9yR6xO8yeP1kekeYE8a3sTGiqwhrf_1rWWKlcNNBlEffIsiLDH-fDsDUFGxrlN_xaO7Bhc50WzXUYvgdNz0VE00p11_Dfv7REv00ZFzl1OiinAr3RONo3nN8v)
