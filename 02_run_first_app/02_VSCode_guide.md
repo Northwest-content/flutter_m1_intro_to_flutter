@@ -1,4 +1,3 @@
-# VSCode guide
 
 **Important Shortcuts**
 

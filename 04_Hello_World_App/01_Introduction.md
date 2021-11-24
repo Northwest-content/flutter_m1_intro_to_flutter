@@ -1,5 +1,3 @@
-# Introduction
-
 
 
 In this lesson, we will build our first application called "Hello World App", and we will understand some basics of Flutter.

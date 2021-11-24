@@ -1,4 +1,3 @@
-# Create new Flutter project
 
 1. Open **vs code**
 

@@ -1,4 +1,3 @@
-Installing Xcode
 
 1. Open **App Store**
 

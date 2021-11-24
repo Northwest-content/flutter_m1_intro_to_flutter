@@ -1,4 +1,3 @@
-# Run the Application
 
 1. Open **Command Palette**, or you can use the shortcut
 

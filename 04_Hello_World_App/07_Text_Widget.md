@@ -1,4 +1,3 @@
-# Text Widget
 
 8. When we create the application interface in Flutter we make a composition of widgets by nesting them one inside the other. In our example, we will use **Text** widget which helps us to draw text inside an app. We will draw "**Hello World ^\_^**" text inside the app, and we will pass the **Text** widget inside the **body** named arguments that inside the **Scaffold** widget.
 

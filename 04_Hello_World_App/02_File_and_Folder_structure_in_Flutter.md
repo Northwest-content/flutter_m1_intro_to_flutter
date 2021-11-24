@@ -1,7 +1,5 @@
 
 
-# File and Folder structure in Flutter
-
 First , Create a new Flutter App project, 
 
 > Check flutter_m1_intro_to_flutter/02_run_first_app/**01_Create_new_Flutter_project**

@@ -1,4 +1,3 @@
-# After Done from Installation
 
 1. Open - **Cmd** (Windows) or **Terminal** (macOS)
 

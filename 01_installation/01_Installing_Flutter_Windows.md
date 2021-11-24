@@ -1,6 +1,3 @@
-# Installing Flutter Windows
-
-
 
 1. Open https://flutter.dev/docs/get-started/install
 

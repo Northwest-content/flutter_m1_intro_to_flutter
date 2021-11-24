@@ -1,6 +1,3 @@
-# Installing VS Code
-
-
 
 1. Open https://code.visualstudio.com
 2. Click Download button

@@ -1,4 +1,3 @@
-# Setting up VS Code
 
 1. Launch **VS Code**
 

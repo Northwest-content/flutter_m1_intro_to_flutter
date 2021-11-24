@@ -1,4 +1,3 @@
-# TextStyle
 
 11. Right now, we don't like the style of text, so we will change it to a beautiful style ^\_^. To change the text style, we will use the **style** named argument inside the **Text** widget. This named argument takes **TextStyle**.
 

@@ -1,6 +1,3 @@
-# MaterialApp Widget
-
-
 
 3.  After that, we will start building our first widget called **MyApp**, this is our main widget called **root widget**.
 

@@ -1,4 +1,3 @@
-# Text widget
 
 ​ Text widget will help us to draw text inside an app.
 

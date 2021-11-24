@@ -1,5 +1,3 @@
-# Text widget
-
 
 
 1. To change the text style, we will use a **style** named argument inside the **Text widget**. This named argument takes the **TextStyle** object.

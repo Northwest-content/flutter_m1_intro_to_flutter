@@ -1,4 +1,3 @@
-# Installing Android Studio
 
 ### Setup Android Studio
 
