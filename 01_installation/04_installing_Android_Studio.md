@@ -1,4 +1,3 @@
-
 ### Setup Android Studio
 
 1. Open https://developer.android.com/studio

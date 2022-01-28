@@ -1,4 +1,3 @@
-
 1. Launch **VS Code**
 
 2. Click **Extensions** tab
