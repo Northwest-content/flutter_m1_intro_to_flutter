@@ -1,29 +1,29 @@
-4. Let's create our Home Screen widget, which will take the **Scaffold** widget.
+4. Let's set up our `HomeScreen` widget, which returns the **Scaffold** widget.
 
-> **Scaffold Widget**: when you want to create a new screen in Flutter, we use the **Scaffold** widget.
+> **Scaffold Widget**: when we want to create a new screen in Flutter, we use the **Scaffold** widget.
 
-    ```dart
-    class HomeScreen extends StatelessWidget {
-      @override
-      Widget build(BuildContext context) {
-        return Scaffold(
+```dart
+class HomeScreen extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
 
-        );
-      }
-    }
-    ```
+    );
+  }
+}
+```
 
-5. We will edit the **MyApp** widget, and we will use the body named argument inside the **MaterialApp** widget.
+5. We will edit the **MyApp** widget, and will use the body named argument inside the **MaterialApp** widget.
 
-> Each widget will have named arguments, such as **body**, **child**, **appBar**, etc..; Each **named argument** has a specific job. For example, in our case, we use **home:** named arguments that inside **MaterialApp**. This named argument will help us to show the home screen, so here we pass **HomeScreen** widget that we created before.
+> Each widget has named arguments, such as **body**, **child**, **appBar**, etc. Each **named argument** has a specific job. For example, we used the **home** named argument inside **MaterialApp**. This named argument helps us to show the home screen by passing to it the **HomeScreen** widget that we created before.
 
-    ```dart
-    class MyApp extends StatelessWidget {
-      @override
-      Widget build(BuildContext context) {
-        return MaterialApp(
-          home: HomeScreen(),
-        );
-      }
-    }
-    ```
+```dart
+class MyApp extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      home: HomeScreen(),
+    );
+  }
+}
+```

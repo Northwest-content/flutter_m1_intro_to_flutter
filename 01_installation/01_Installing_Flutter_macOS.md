@@ -1,4 +1,4 @@
-1. Open https://flutter.dev/docs/get-started/install
+1. Open https://flutter.dev/docs/get-started/install.
 
 2. Choose **macOS**.
 
@@ -10,53 +10,53 @@
 
 4. Extract the zip file.
 
-5. Move the **flutter** folder to **Documents** folder.
+5. Move the **flutter** folder to the **Documents** folder.
 
-6. Press **right click**, hold the **option** key, then choose **Copy “flutter” as Pathname**.
-
-7. Make sure that **bash** shell is the default shell. Open **System Preferences** >> **Users & Groups**.
+6. Right-click on the flutter folder, hold the **option** key, then choose **Copy “flutter” as Pathname**.
+<!-- the default shell doesn't have to be bash, they can set it up with z as well => code .zshrc and they paste the path -->
+7. Open **System Preferences** >> **Users & Groups** to check if **bash** is the default shell.
 
 ![screenshot](https://lh4.googleusercontent.com/waEM9qtZI_wU0CtJWZN03DHJlGMpWEJRnn5eYocuUAnDJIkT_qP0pYzUPcL-sEpqZlmjswPib1g7GffqGBNemwfwgOwyip0SAQbj7_HBKwBZ1s6rGhPHO8P1qlLP018IU_k80dG4)
 
-8. Click the lock icon down, then type the password of your device.
+8. Click the lock icon button, and type the password of your device to unlock the key.
 
-9. After you unlock it, press right click Advanced Options
+9. Right-click on the user admin, then click **Advanced Options**.
 
 ![screenshot](https://lh3.googleusercontent.com/qyHOJGyleXlHsdNs0P6sMdxTaZVZB969mXYV6A5BRh1xb75wec42MWxyJ-4KNejE9-hbD759SAsYtQvGCruD80VOwJThx-8XOhWBZ4VbSKBDBBedhvqEfSiTpFz_ukPHPjTJXV5z)
 
-10. Then make sure you choose **/bin/bash** in **Login shell**
+10. Choose **/bin/bash** for **Login shell**
 
 ![screenshot](https://lh4.googleusercontent.com/eDdkjMAyDmIXNI-U-LL1ZDRIDbTqnCh65y5hBR3FyB_iOWYgMrXc44jT-BDYAE5lJwPcjX43rk1q1D5EQslkAH-wSuTR7fmFaZaQyCm-kx_2wfDz7anA76oap32VtMklW1SCWlA-)
 
-11. After that open **Terminal**
+11. Open **Terminal**.
 
 ![screenshot](https://lh3.googleusercontent.com/cynJO7JvqQUxTNSJUr2zCF_QLvUS-FPUYqDxJ2rNLbhcERS9wFhf0EPZKzpa9Duwr_4Vay1bMTVKrajNgmkn3Ewvuo8DhiN2SycStPYa_nWS-rVHCNZFDeJ056JgsGk_0Gu7jyp_)
 
-12. Run,
+12. Run the following command:
 
     ```shell
     open .bash_profile
     ```
 
-    **Note:** If the **bash_profile** does not open, run on **Terminal**
+    **Note:** If the **bash_profile** doesn't open, run the following command:
 
     ```shell
     touch ~/.bash_profile; open ~/.bash_profile
     ```
 
-13. Write the path that you copied for the **flutter** folder Inside the **bash_profile**
+13. Inside **bash_profile**, paste the path of the **flutter** folder that you copied.
 
     ```
     export PATH="$PATH:[your path]/bin"
     ```
 
-14. Replace **[your path]** with the **flutter** folder.
+14. Replace **[your path]** with the **flutter** folder path.
 
-    The final example will be the same as this example but with your **flutter path folder**.
+    The final path will be the same as the example below, but with your **flutter path**.
 
 ![screenshot](https://lh5.googleusercontent.com/drK-jBdJH71dFTcmOgWUzECjmyoTJeBju2mTAWgycHmUl6SzZIpK8S08xDeEUcueq1IEEIfsI2RW_PBnRW8vZWzwRDZugFXD9RDPlxBgCjQwftBNUhOePpqP-7aEQ78ajTEdQgd2)
 
-15. Save **.bash_profile**, Then quit the **Terminal**, and reopen it again.
+15. Save **.bash_profile**. Quit **Terminal**, and reopen it again.
 
 16. Run the following code in your terminal.
 
@@ -64,7 +64,7 @@
     flutter --version
     ```
 
-    Make sure that you will see the **flutter version**, same as this example but maybe with a different version - No Problem :)
+    Make sure that you see the **flutter version**, like the example below, but maybe with a different version - No Problem :)
 
 ![screenshot](https://lh3.googleusercontent.com/k-hu3OPmsvizSChjQJoj_HCsKRR4DazJsB9cMewyzEnZvR2rFNoyAv0fv0asEVCwHwvpw9JwgdledNYxQrIaKU_TWlZizFSmKhvg527SPuDYx2965WZi1OxRpaWzZLteRNFc-wYT)
 

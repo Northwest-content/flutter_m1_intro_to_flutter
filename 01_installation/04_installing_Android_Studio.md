@@ -1,6 +1,6 @@
 ### Setup Android Studio
 
-1. Open https://developer.android.com/studio
+1. Open https://developer.android.com/studio.
 
 2. Click the **Download** button.
 
@@ -10,7 +10,7 @@
 
 4. Launch **Android Studio**.
 
-5. Click the **Configure**.
+5. Click **Configure**.
 
 **![screenshot](https://lh4.googleusercontent.com/g_T_XXJkBTu89j9C-JNe89_TCUOnerLhGhQaGIozQ-RsIyJaj7IcC9ErdaGRh3p98-b9REJyxmOgBhb-fWNgu3KK6sZFNb0eM6ZZ_ujtWobSP3Ops43P4jeGYqboTx2dp5AxS1DA)**
 
@@ -24,9 +24,9 @@
 
 ### Setup the Android Emulator in android studio
 
-1. Click the **Configure**
+1. Click **Configure**.
 
-2. Click **AVD Manager**
+2. Click **AVD Manager**.
 
 **![screenshot](https://lh5.googleusercontent.com/hqY8QJd-uqQFw2oOjNtlWjF0BRE2ZqPlMsOJu_wJBJESJLRMq29gRnQvYffejJfinxqn1joY9nTrNFkITr9ZvrIYuSbO3NQZfovmIiU25GRUsFMnbpdbMbG01ylAM5n2w-cmcUQg)**
 
@@ -36,15 +36,15 @@
 
 3. Select **Create Virtual Device**.
 
-4. Choose **Pixel 4**, then click **Next** button.
+4. Choose **Pixel 4**, then click the **Next** button.
 
 5. Choose **R**
 
-   > Note: _if there is a_ **Download** _text beside it, click it, and download it._
+   > Note: _if there is a_ **Download** _text beside it, click it to download R._
 
-6. Click **Next** button.
+6. Click the **Next** button.
 
-7. Then click **Finish** button.
+7. Click the **Finish** button.
 
 8. Click the **run** icon.
 

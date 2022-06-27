@@ -1,5 +1,4 @@
-
-11. Right now, we don't like the style of text, so we will change it to a beautiful style ^\_^. To change the text style, we will use the **style** named argument inside the **Text** widget. This named argument takes **TextStyle**.
+11. We will change the style of our text to a beautiful one ^\_^. To change the text style, we use the **style** named argument inside the **Text** widget. This named argument takes **TextStyle** object.
 
 ```dart
 class HomeScreen extends StatelessWidget {
@@ -21,7 +20,7 @@ class HomeScreen extends StatelessWidget {
 }
 ```
 
-As you see in the above code, we used the different named arguments inside the **TextStle()**. We changed the font size of the text to 30, font-weight to bold style, and we change the color of the text to blue color.
+As you can see in the code above, we have used different named arguments inside the **TextStyle()** object. We changed the text font size to 30, font-weight to bold style, and the color of the text to blue.
 
 12. Finally, we have built our first app ^ \_ ^
 

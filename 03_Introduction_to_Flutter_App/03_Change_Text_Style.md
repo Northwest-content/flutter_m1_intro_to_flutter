@@ -1,4 +1,4 @@
-1. To change the text style, we will use a **style** named argument inside the **Text widget**. This named argument takes the **TextStyle** object.
+1. To change the text style, we use the **style** named argument inside the **Text widget**. This named argument takes the **TextStyle** object.
 
    ```dart
    Text(
@@ -9,19 +9,17 @@
 
    ```
 
-2. This **TextStyle** object has several properties that we can use to change the style of the **Text widget**.
+2. The **TextStyle** object has a lot of properties that you can play with to change the style of the **Text widget** such as the **color**, **font-weight** of the text, etc.
 
-3. For example, we can increase the font size of our Text. When you save your changes, the font size of the text widget will increase.
-
-   > Note: this **TextStyle** object has a lot of properties you can play with, such as the **color** of text, **font-weight** of text, etc..
+3. For example, we can increase the font size of our Text.
 
    ```dart
    Text(
-                 'Times :)',
-                 style: TextStyle(
-                   fontSize: 30,       // <- here
-                 ),
-               ),
+        'Times :)',
+        style: TextStyle(
+          fontSize: 30,       // <- here
+        ),
+      ),
 
    ```
 
