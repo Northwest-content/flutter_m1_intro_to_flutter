@@ -1,10 +1,10 @@
-1. Launch **VS Code**
+1. Launch **VS Code**.
 
-2. Click **Extensions** tab
+2. Click the **Extensions** tab.
 
 ![screenshot](https://lh3.googleusercontent.com/3nFyVxIoqXEVognw5fLzbe2gfYdGoBXhoFLwTCsRTVzN1Ygkg4drKvPo1OzjHBjsYm45X3mEgve_a2rlf-MwGvlmKEEoqsQO0gkOZOoDp24be7ftAyzcDqvjqJ76eAf_Csml7J-H)
 
-3. Type **flutter** on search bar, then choose Flutter.
+3. Type **flutter** in the search bar, then choose Flutter.
 
 ![screenshot](https://user-images.githubusercontent.com/24327781/119427461-af961480-bcd0-11eb-89b3-e0457e3f8c2a.png)
 
@@ -12,7 +12,7 @@
 
 ![screenshot](https://lh3.googleusercontent.com/Uv1H8x-Lz5YAgMNhMVv1HO38HQQpyQe7ZwD6Ao7cmeFiNS9C2mLx11HgxxyOXUcD_OufgA_OkxRXuAy8dBxfU3bFGrLY3iAw13AqXERlk8YCooUHWXJPuuvsty8eEWvO1BwtL264)
 
-5. (_Optional_) Install **Material Icon Theme**
+5. (_Optional_) Install **Material Icon Theme**.
 
 ![screenshot](https://lh3.googleusercontent.com/zBHmcYmJpktNim7u-lfTqpk3yNAMQHwpAWJkjfpqTDsnL_CmhJ1N2NvDevXWabYmBOUad-BBp6bvhCUZGQ4lnX_WI61dLox-M0zpQmLASAS9Ligqt2AY52m7IEgmVP1LLbZRl756)
 
